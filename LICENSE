@@ -1,20 +1,28 @@
 Copyright (c) 2024
 
-This project uses data from the World Health Organization (WHO), as retrieved from https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database.
-The data is used in compliance with WHO's copyright policy, which can be reviewed at https://www.who.int/about/policies/publishing/copyright.
+This project utilizes datasets from the following sources:
 
-WHO COPYRIGHT DISCLAIMER:
-- WHO materials are copyrighted and may not be used for commercial purposes without prior permission.
-- Users must provide proper attribution to WHO as the source of the data.
+1. World Health Organization (WHO)
+   - Source: https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database 
+   - Copyright Notice: The dataset is copyrighted by the World Health Organization (WHO). Use of this data complies with WHO's copyright policy, available at https://www.who.int/about/policies/publishing/copyright.  
+   - Attribution: Data provided by the World Health Organization.  
 
-ATTRIBUTION:
-The data used in this project originates from the World Health Organization. 
-Source: https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database.
+2. World Bank - World Development Indicators
+   - Source: https://databank.worldbank.org/source/world-development-indicators
+   - Copyright Notice: The dataset is published by the World Bank and falls under the terms of the 
+World Bank Data License, which can be reviewed at https://datacatalog.worldbank.org/public-licenses#cc-by.  
+   - Attribution: Data provided by the World Bank, World Development Indicators.
 
-LIMITATIONS:
+Purpose of Use:
 This project is intended for educational purposes only, as part of a university course in data analysis. The data and results of this analysis are not intended for publication, commercial use, or redistribution outside the scope of this course.
 
-For more details on WHO’s copyright terms, please visit: https://www.who.int/about/policies/publishing/copyright.
+Combined Analysis and Attribution
+The datasets from WHO and the World Bank have been combined to perform a comprehensive data analysis. Proper attribution to both sources is maintained throughout this project, as required by their respective copyright and licensing policies.
 
-ADDITIONAL NOTE:
-Other parts of this repository, including custom scripts, analysis code, and visualizations, are authored by the project team and licensed under the MIT License. 
+Additional Notes:
+- Any code, scripts, or visualizations created as part of this project are authored by the project team and are licensed separately under the MIT License.
+- Users of this repository must comply with the licensing terms of WHO and World Bank data if using the datasets or derived works.
+
+For further information about the licensing terms:
+- WHO: https://www.who.int/about/policies/publishing/copyright  
+- World Bank: https://datacatalog.worldbank.org/public-licenses#cc-by
