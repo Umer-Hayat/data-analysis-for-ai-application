@@ -35,3 +35,7 @@ Replace `<data-analysis>` with the name of the environment specified in the `env
 ## Usage
 
 Now it's ready to use.
+
+
+This repository uses data from the World Health Organization (WHO).
+For more details on WHO’s copyright policy, please visit [WHO Copyright Policy](https://www.who.int/about/policies/publishing/copyright).
